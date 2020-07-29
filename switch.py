@@ -1,5 +1,5 @@
 # THIS FILE CAN BE CALLED WITH ARGUMENTS TO TURN ON A DEVICE
-# EXAMPLE: python3 status.py light on
+# EXAMPLE: python3 switch.py light on
 
 import sys
 from config import *
