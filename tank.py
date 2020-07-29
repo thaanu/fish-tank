@@ -1,3 +1,5 @@
+# THIS FILE HAS THE MAIN FUNCTIONS WHICH EXECUTES WHEN A SWITCH IS ON AND OFF
+
 from config import *
 import json
 import time

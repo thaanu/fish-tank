@@ -1,3 +1,6 @@
+# THIS FILE HAS TO BE RUNNING IN THE BACKGROUND
+# THE SCRIPT CHECKS FOR ANY MANUL SWITCH ON FOR ANY DEVICE
+
 from config import *
 from tank import *
 import os
